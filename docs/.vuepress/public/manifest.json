@@ -1,10 +1,10 @@
 {
-  "name": "张三",
-  "short_name": "张三",
+  "name": "项彬",
+  "short_name": "项彬",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "张三的个人主页",
+  "description": "项彬的个人主页",
   "theme_color": "blue",
   "icons": [
     {
