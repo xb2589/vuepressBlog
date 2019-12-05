@@ -1,5 +1,10 @@
 #前端积累
-
+## 五大主流浏览器
+- IE：Trident 内核
+- Chrome：Webkit Blink（以前是Webkit内核，现在是Blink内核）
+- Safari：Webkit内核
+- Firefox：Gecko内核
+- Opera：Presto（最初是自己的Presto内核，后来是Webkit，现在是Blink内核）
 ## js事件传播流程
  事件捕获阶段 ——》 处于目标阶段 ——》 事件冒泡阶段  
  事件冒泡：事件开始时由最具体的元素接收，然后逐级向上传播到较为不具体的元素  
